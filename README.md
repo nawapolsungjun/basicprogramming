@@ -1,1 +1,1 @@
-# basicprogramming
+แบบฝึกหัดของ Nawapol Sungjun
