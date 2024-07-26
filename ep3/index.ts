@@ -6,7 +6,7 @@ helloWorld()
 
 function secondHello(name: string) {
     console.log(name)
-} // รับ Input แต่ไม่ Output
+} // รับ Input แต่ไม่ Outputt
 
 console.log(secondHello('Nuye'))
 
