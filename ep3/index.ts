@@ -1,5 +1,5 @@
 function helloWorld() {
-    console.log('สวัสดีเหนือ')
+    console.log('สวัสดีคุณเหนือ')
 }// ไม่มี input ไม่มี output
 
 helloWorld()
